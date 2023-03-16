@@ -4,8 +4,6 @@ The goal of the whitepaper is to implement account abstraction without passing t
 
 This can be sold be changing the validation scheme used by the contract wallet to one which is not ECDSA and is qunatum resitant. 
 
-## Title 
-
 
 ## Abstract 
 
